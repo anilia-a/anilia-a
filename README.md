@@ -4,9 +4,9 @@ Welcome to my GitHub profile.
 
 ## 🌱 About Me
 
-- 😄 **Pronouns**: she/her
-- 🎓 **Academic:** 3rd Year, Computer Science [@Trinity College Dublin](https://www.tcd.ie/)
-- 💼 **Internship:** Incoming Intern [@Deloitte](https://www2.deloitte.com/ie/en.html)
+😄 **Pronouns**: she/her
+🎓 **Academic:** 3rd Year, Computer Science [@Trinity College Dublin](https://www.tcd.ie/)
+💼 **Internship:** Incoming Intern [@Deloitte](https://www2.deloitte.com/ie/en.html)
 
 ## 🚀 Coding
 
