@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there, I'm Anilia👋
 
-<!--
-**anilia-a/anilia-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 **Pronouns**: she/her
+- 🎓 **Academic:** 3rd Year, Computer Science [@Trinity College Dublin](https://www.tcd.ie/)
+- 💼 **Internship:** Incoming Intern [@Deloitte](https://www2.deloitte.com/ie/en.html)
+
+## 🚀 Coding
+
+- **Languages:**
+  - Java
+  - Python
+  - C
+  - Haskell
+  - Prolog
+  
+- **Interested in:**
+  - Technology Consulting
+  - Artificial Intelligence
+  - Cybersecurity
+  - Diversity and Inclusion in Tech
+  - Software Engineering
+  - Project Management
+
+## 🤝 Let's Connect!
+
+- **LinkedIn:** [Anilia's LinkedIn](https://www.linkedin.com/in/anilia-anil/)
+- **Email:** [anila@tcd.ie](mailto:anila@tcd.ie)
+
+## 📚 Problem-Solving Portfolios
+
+- **LeetCode:** [Anilia on LeetCode](https://leetcode.com/Anilia/)
+- **HackerRank:** [Anilia on HackerRank](https://www.hackerrank.com/profile/anila5)
