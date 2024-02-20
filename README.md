@@ -19,9 +19,9 @@ Welcome to my GitHub profile.
   
 - **Interested in:**
   - Technology Consulting
+  - Diversity and Inclusion in Tech
   - Artificial Intelligence
   - Cybersecurity
-  - Diversity and Inclusion in Tech
   - Software Engineering
   - Project Management
 
