@@ -6,7 +6,7 @@ Welcome to my GitHub profile.
 
 - 😄 **Pronouns**: she/her
 - 🎓 **Academic:** 3rd Year, Computer Science [@Trinity College Dublin](https://www.tcd.ie/)
-- 💼 **Internship:** Incoming Intern [@Deloitte](https://www2.deloitte.com/ie/en.html)
+- 💼 **Internship:** Technology Forensics Intern [@Deloitte](https://www2.deloitte.com/ie/en.html)
 
 ## 🚀 Coding
 
@@ -18,7 +18,7 @@ Welcome to my GitHub profile.
   - Prolog
   
 - **Interested in:**
-  - Technology Consulting
+  - Digital Forensics
   - Diversity and Inclusion in Tech
   - Artificial Intelligence
   - Cybersecurity
