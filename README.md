@@ -26,7 +26,7 @@ Welcome to my GitHub profile.
   - Artificial Intelligence
   - Cybersecurity
   - Machine Learning
-  - 
+    
 ## 🤝 Let's Connect!
 
 - **LinkedIn:** [Anilia's LinkedIn](https://www.linkedin.com/in/anilia-anil/)
