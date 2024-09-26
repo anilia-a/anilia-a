@@ -6,25 +6,27 @@ Welcome to my GitHub profile.
 
 - 😄 **Pronouns**: she/her
 - 🎓 **Academic:** 3rd Year, Computer Science [@Trinity College Dublin](https://www.tcd.ie/)
-- 💼 **Internship:** Technology Forensics Intern [@Deloitte](https://www2.deloitte.com/ie/en.html)
+- 💼 **Internship:** 2024 Technology Forensics Intern [@Deloitte](https://www2.deloitte.com/ie/en.html)
 
 ## 🚀 Coding
 
 - **Languages:**
   - Java
   - Python
-  - C
-  - Haskell
-  - Prolog
+  - R
+  - HTML
+  - CSS
+  - SQL
+  - Javascript
+  - Angular
   
 - **Interested in:**
-  - Digital Forensics
-  - Diversity and Inclusion in Tech
+  - Software Engineering
+  - Data Analytics
   - Artificial Intelligence
   - Cybersecurity
-  - Software Engineering
-  - Project Management
-
+  - Machine Learning
+  - 
 ## 🤝 Let's Connect!
 
 - **LinkedIn:** [Anilia's LinkedIn](https://www.linkedin.com/in/anilia-anil/)
